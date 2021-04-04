@@ -1,0 +1,28 @@
+{
+    "Pages": [
+        {
+            "Name": "Home",
+            "Root": "./home/"
+        },
+        {
+            "Name": "Linux",
+            "Root": "../home/docs/linux/"
+        },
+        {
+            "Name": "LinuxCommand",
+            "Root": "../home/docs/linux_cmd/"
+        },
+        {
+            "Name": "Infrastructure",
+            "Root": "../home/docs/infrastructure/"
+        },
+        {
+            "Name": "English",
+            "Root": "../home/docs/english/"
+        },
+        {
+            "Name": "Life",
+            "Root": "../home/docs/life/"
+        }
+    ]
+}
